@@ -1,0 +1,31 @@
+*{
+    margin: 25px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkslategray;
+}
+h1{
+    border: 9px;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 5px;
+    color: lightseagreen;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: oblique;
+    
+}
+p{
+    
+    color: lightsalmon;
+    text-align: justify;
+    font-size: 23px;
+}
+img{
+    width: 45%;
+}
+img:hover{
+    width: 47%;
+}
